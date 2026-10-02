@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-428f480631.shaxirc.cn/sitemap.xml
